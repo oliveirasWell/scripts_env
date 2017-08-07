@@ -31,3 +31,4 @@ release.properties
 /src/main/jasperreports/reports/*.jasper
 
 .DS_Store
+.idea/
